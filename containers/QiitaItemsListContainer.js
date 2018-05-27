@@ -28,7 +28,7 @@ export default class QiitaItemsListContainer extends Component {
     return (
       <Text>
         Loading Movies...
-            </Text>
+      </Text>
     );
   }
 
